@@ -10,7 +10,7 @@ package ujibuss;
  * @author MOKLET-2
  */
 public class Buss {
-     public double penumpang;
+    public double penumpang;
     public double maxpenumpang;
     public double counter;
     
